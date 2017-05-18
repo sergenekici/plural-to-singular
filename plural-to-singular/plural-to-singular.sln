@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plural-to-singular", "plural-to-singular\plural-to-singular.csproj", "{735DFAB6-54D0-4165-B7EB-DE36CA0C34DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plural-to-singular-singular-to-plural", "plural-to-singular\plural-to-singular-singular-to-plural.csproj", "{735DFAB6-54D0-4165-B7EB-DE36CA0C34DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
